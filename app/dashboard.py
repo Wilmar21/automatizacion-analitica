@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🌎 Dashboard Analítico - Turismo Boyacá - Proyecto Electiva II")
+st.title("🌎 Dashboard Analítico - Turismo Boyacá")
 
 st.markdown(
 """
